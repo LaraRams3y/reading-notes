@@ -1,5 +1,7 @@
-# **Reading-Notes**
-My reading journal for Code Fellows.
+# **Lara Ramsey Reading-Notes**
+Welcome to my reading journal for Code Fellows. I am a new coding student, looking forward to discovering more about the tech industry. I'm looking forward to finding what most intrigues me in terms of developing my skills and where I can contribute those skills.
+
+Find my projects at https://github.com/LaraRams3y 
 
 # **Growth Mindset**
 ![Photo By Nik on Upsplash](https://user-images.githubusercontent.com/144070825/267103992-bd6158e3-d696-47c6-a74a-660d16907209.jpg)
@@ -9,4 +11,4 @@ My reading journal for Code Fellows.
 - [ ] Remind myself that we are all standing on the shoulders of those who came before us and reaching out for help is a given.
 - [ ] Remind myself of a time that I was stuck; remember how I got unstuck, and/or how others helped me get unstuck; and recall how great it felt to get unstuck and grow. If I did it once, I can do it again!
 
-https://github.com/LaraRams3y 
+
