@@ -1,7 +1,7 @@
 # **Lara Ramsey Reading-Notes**
 Welcome to my reading journal for Code Fellows. I am a new coding student, looking forward to discovering more about the tech industry. I'm looking forward to finding what most intrigues me in terms of developing my skills and where I can contribute those skills.
 
-Find my projects at https://github.com/LaraRams3y 
+Find my GitHub profile and projects at (https://github.com/LaraRams3y) 
 
 # **Growth Mindset**
 ![Photo By Nik on Upsplash](https://user-images.githubusercontent.com/144070825/267103992-bd6158e3-d696-47c6-a74a-660d16907209.jpg)
