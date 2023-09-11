@@ -11,4 +11,4 @@ Find my projects at https://github.com/LaraRams3y
 - [ ] Remind myself that we are all standing on the shoulders of those who came before us and reaching out for help is a given.
 - [ ] Remind myself of a time that I was stuck; remember how I got unstuck, and/or how others helped me get unstuck; and recall how great it felt to get unstuck and grow. If I did it once, I can do it again!
 
-**Growth Mindset image is from [Nik on Upsplash] (https://unsplash.com/@helloimnik). Method for uploading and inserting image was from [Sean C Davis on YouTube] (https://youtu.be/Ljj1wGFJqPY?si=yJO_kHhJgaYyhSXh) 
+**Growth Mindset image is from [Nik on Upsplash](https://unsplash.com/@helloimnik). Method for uploading and inserting image was from [Sean C Davis on YouTube](https://youtu.be/Ljj1wGFJqPY?si=yJO_kHhJgaYyhSXh) 
