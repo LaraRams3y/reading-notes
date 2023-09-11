@@ -7,4 +7,6 @@ My reading journal for Code Fellows.
 >
 - [ ] Have multiple mentors and/or resources to help get unstuck and moving forward again.
 - [ ] Remind myself that we are all standing on the shoulders of those who came before us and reaching out for help is a given.
-- [ ] Remind myself of a time that I was stuck; remember how I got unstuck, and/or how others helped me get unstuck; and recall how great it felt to get unstuck and grow. If I did it once, I can do it again! 
+- [ ] Remind myself of a time that I was stuck; remember how I got unstuck, and/or how others helped me get unstuck; and recall how great it felt to get unstuck and grow. If I did it once, I can do it again!
+
+https://github.com/LaraRams3y 
