@@ -13,6 +13,6 @@ Find my GitHub profile and projects at [github.com/LaraRams3y](https://github.co
 
 Growth Mindset image is from [Nik on Upsplash](https://unsplash.com/@helloimnik). Method for uploading and inserting image was from [Sean C Davis on YouTube](https://youtu.be/Ljj1wGFJqPY?si=yJO_kHhJgaYyhSXh) 
 
-#Menu
-##Code 102 Notes
-     *[About Markdown](
+# **Menu**
+## Code 102 Notes
+     * [About Markdown](
