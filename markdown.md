@@ -4,9 +4,9 @@
 ### Why Use Markdown?
 >Markdown is a versatile language with great longevity. It is versatile in that it can be used across various applications and across various platforms. For this reason, it will also last beyond any singular app that may become obsolete. 
 ### Sample Markdown Language \(a.k.a. - syntax\)
-     > Large Header \- Use \#  A single pound symbol or hashtag in front of text.
+> Large Header \- Use \#  A single pound symbol or hashtag in front of text.
      
-     > Smallest Header \- Use \###  Three pound symbols or hashtags in front of text.
+> Smallest Header \- Use \###  Three pound symbols or hashtags in front of text.
      
      > Bold Text \- Use \** \**  Two asterisks on either side of text.
 > 
