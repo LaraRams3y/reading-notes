@@ -15,4 +15,4 @@ Growth Mindset image is from [Nik on Upsplash](https://unsplash.com/@helloimnik)
 
 # **Menu**
 ## Code 102 Notes
-     * [About Markdown]([markdown.md](https://github.com/LaraRams3y/reading-notes/blob/main/markdown.md)https://github.com/LaraRams3y/reading-notes/blob/main/markdown.md)
+     * [About Markdown]([markdown.md](https://github.com/LaraRams3y/reading-notes/blob/main/markdown.md)
