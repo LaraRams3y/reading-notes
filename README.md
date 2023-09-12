@@ -33,4 +33,4 @@ Growth Mindset image is from [Nik on Upsplash](https://unsplash.com/@helloimnik)
 >
 > Create A Link \- Use \(\) Parenthesis on either side of link URL.
 >
-> Create Unordered Bulletted List \- Use \* or \- or \+ Asterisk, dash or plus sign in front of text.
+> Create Unordered Bulleted List \- Use \* or \- or \+ Asterisk, dash or plus sign in front of text.
