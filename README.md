@@ -23,7 +23,14 @@ Growth Mindset image is from [Nik on Upsplash](https://unsplash.com/@helloimnik)
 ### Why Use Markdown?
 >Markdown is a versatile language with great longevity. It is versatile in that it can be used across various applications and across various platforms. For this reason, it will also last beyond any singular app that may become obsolete. 
 ### Sample Markdown Language \(a.k.a. - syntax\)
-> Large Header \- Use \# \(a single pound symbol or hashtag) to create a the largest header option.
-> Smallest Header \- Use \### \(three pound symbols or hashtags) to create the smallest header option.
-> Bold Text \- Use \** \** \(two asterisks on either side of text to create Bold content.
-> Italicized Text \- Use \* \* \(single asterisk on either side of text to create Italicized content).
+> Large Header \- Use \#  A single pound symbol or hashtag in front of text.
+
+> Smallest Header \- Use \###  Three pound symbols or hashtags in front of text.
+
+> Bold Text \- Use \** \**  Two asterisks on either side of text.
+
+> Italicized Text \- Use \* \*  Single asterisk on either side of text.
+>
+> Create A Link \- Use \(\) Parenthesis on either side of link URL.
+>
+> Create Unordered Bulletted List \- Use \* or \- or \+ Asterisk, dash or plus sign in front of text.
