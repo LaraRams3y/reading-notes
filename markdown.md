@@ -1,4 +1,4 @@
-## Notes on Markdown
+## Notes On Markdown
 ### What Is Markdown?
 
 > Markdown is a lightweight markup language, used to add formatting elements to plain text docs.
