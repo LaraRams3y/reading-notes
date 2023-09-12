@@ -15,4 +15,9 @@ Growth Mindset image is from [Nik on Upsplash](https://unsplash.com/@helloimnik)
 
 # **Menu**
 ## Code 102 Notes
-     *  [About Markdown](https://github.com/LaraRams3y/reading-notes/blob/main/markdown.md)
+
+## Notes on Markdown
+### What Is Markdown?
+> Markdown is a lightweight markup language, used to add formatting elements to plain text docs.
+### Why Use Markdown?
+>Markdown is a versatile language with great longevity. It is versatile in that it can be used across various applications and across various platforms. For this reason, it will also last beyond any singular app that may become obsolete. 
