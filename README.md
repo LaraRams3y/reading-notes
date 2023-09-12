@@ -15,4 +15,4 @@ Growth Mindset image is from [Nik on Upsplash](https://unsplash.com/@helloimnik)
 
 # **Menu**
 ## Code 102 Notes
-     * [About Markdown](
+     * [About Markdown](markdown)
