@@ -1,3 +1,4 @@
+
 # **Lara Ramsey Reading-Notes**
 Welcome to my reading journal for Code Fellows. I am a new coding student, looking forward to discovering more about the tech industry. I'm looking forward to finding what most intrigues me in terms of developing my skills and where I can contribute those skills.
 
@@ -21,3 +22,8 @@ Growth Mindset image is from [Nik on Upsplash](https://unsplash.com/@helloimnik)
 > Markdown is a lightweight markup language, used to add formatting elements to plain text docs.
 ### Why Use Markdown?
 >Markdown is a versatile language with great longevity. It is versatile in that it can be used across various applications and across various platforms. For this reason, it will also last beyond any singular app that may become obsolete. 
+### Sample Markdown Language \(a.k.a. - syntax\)
+> Large Header \- Use \# \(a single pound symbol or hashtag) to create a the largest header option.
+> Smallest Header \- Use \### \(three pound symbols or hashtags) to create the smallest header option.
+> Bold Text \- Use \** \** \(two asterisks on either side of text to create Bold content.
+> Italicized Text \- Use \* \* \(single asterisk on either side of text to create Italicized content).
