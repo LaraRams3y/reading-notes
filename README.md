@@ -18,5 +18,6 @@ Growth Mindset image is from [Nik on Upsplash](https://unsplash.com/@helloimnik)
 ## Code 102 Notes
 
 [Markdown](https://lararams3y.github.io/reading-notes/markdown)
+
 [The Coder's Computer](https://lararams3y.github.io/reading-notes/coderscomputer)
 
