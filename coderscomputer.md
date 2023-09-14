@@ -13,3 +13,10 @@
 - cd = Change Directory. Move to another folder.
 - mkdir = Make a new directory/folder.
 - touch = Make a new file.
+
+#### Following is an explanation of what is happening in the sample commands and arguments:
+1. cd projects = change directories to *projects* directory
+2. mkdir new-project = within *projects* directory/folder, make a new directory/folder named *new-project*
+3. touch new-project/newfile.md = within *new-project* directory/folder, make a new markdown file named *newfile.md*
+4. cd .. = go back two levels
+5. ls projects/new-project = show the list of folders/files within *new-project* directory
