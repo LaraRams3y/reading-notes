@@ -12,4 +12,4 @@ Completing this program will be quite a challenge. I will be continuing to work,
 
 Growth Mindset image is from [Nik on Upsplash](https://unsplash.com/@helloimnik). Method for uploading and inserting image was from [Sean C Davis on YouTube](https://youtu.be/Ljj1wGFJqPY?si=yJO_kHhJgaYyhSXh)
 
-[Back to Main Page](READING-NOTES.MD)
+[Back to Main Page](https://lararams3y.github.io/reading-notes/)

@@ -20,3 +20,5 @@
 3. touch new-project/newfile.md = within *new-project* directory/folder, make a new markdown file named *newfile.md*
 4. cd .. = go back two levels
 5. ls projects/new-project = show the list of folders/files within *new-project* directory
+
+[Back to Main Page](https://lararams3y.github.io/reading-notes/)
