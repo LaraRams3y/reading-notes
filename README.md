@@ -6,7 +6,7 @@ This website is all about the new cool stuff I'm learning through Code Fellows. 
 
 # **Table of Contents**
 ## Code 102 Notes
-- [Growth Mindset](https://lararams3y.github.io/reading-notes/growthmindset)
+- [Growth Mindset](https://lararams3y.github.io/reading-notes/#code-102-notes/growthmindset)
 - [Read01-Markdown](https://lararams3y.github.io/reading-notes/code102/markdown)
 - [Read02-The Coder's Computer](https://lararams3y.github.io/reading-notes/code102/coderscomputer)
 - [Read03-RevisionsAndTheCloud](https://lararams3y.github.io/reading-notes/Code102/CodersComputer)
