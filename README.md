@@ -6,31 +6,29 @@ This website is all about the new cool stuff I'm learning through Code Fellows. 
 
 # **Table of Contents**
 ## Code 102 Notes
-- [Growth Mindset](https://lararams3y.github.io/reading-notes/Code102/GrowthMindset.md)
-- [Read01-Markdown](Code102/Read01-Markdown.md)
-- [Read02-The Coder's Computer](https://lararams3y.github.io/reading-notes/code102/coderscomputer)
-- [Read03-RevisionsAndTheCloud](https://lararams3y.github.io/reading-notes/Code102/CodersComputer)
+- [Growth Mindset](code102/growthmindset.md)
+- [Read01-Markdown](code102/read01-markdown.md)
+- [Read02-The Coder's Computer](code102/read02-coderscomputer.md)
+- [Read03-RevisionsAndTheCloud](code102/read03-revisionsandthecloud.md)
 
-[Read04]
-[Read05]
-[Read06]
-[Read07]
-[Read08]
+[Read04](code102/read04.md)
+[Read05](code102/read05.md)
+[Read06](code102/read06.md)
+[Read07](code102/read07.md)
+[Read08](code102/read08.md)
 ## Code 201 Notes
-[Read01]
-[Read02]
-[Read03]
-[Read04]
-[Read05]
-[Read06]
-[Read07]
-[Read08]
-[Read09]
-[Read10]
-[Read11]
-[Read12]
-[Read13]
-[Read14]
-[Read15]
-]
-
+[Read01](code201/read01.md)
+[Read02](code201/read02.md)
+[Read03](code201/read03.md)
+[Read04](code201/read04.md)
+[Read05](code201/read05.md)
+[Read06](code201/read06.md)
+[Read07](code201/read07.md)
+[Read08](code201/read08.md)
+[Read09](code201/read09.md)
+[Read10](code201/read10.md)
+[Read11](code201/read11.md)
+[Read12](code201/read12.md)
+[Read13](code201/read13.md)
+[Read14](code201/read14.md)
+[Read15](code201/read15.md)

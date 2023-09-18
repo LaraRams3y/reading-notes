@@ -10,4 +10,6 @@ Completing this program will be quite a challenge. I will be continuing to work,
 - Create achievable goals and acknowledge those achievements once I reach them.
 - Keep my longterms goals constantly in mind: double or tiple my current income, a career field with multiple options and variations in employment opportunities, a career field with a projected 25% growth for the next decade, a property with horses... or a dream property and the ability to pursue horse riding. 
 
-Growth Mindset image is from [Nik on Upsplash](https://unsplash.com/@helloimnik). Method for uploading and inserting image was from [Sean C Davis on YouTube](https://youtu.be/Ljj1wGFJqPY?si=yJO_kHhJgaYyhSXh) 
+Growth Mindset image is from [Nik on Upsplash](https://unsplash.com/@helloimnik). Method for uploading and inserting image was from [Sean C Davis on YouTube](https://youtu.be/Ljj1wGFJqPY?si=yJO_kHhJgaYyhSXh)
+
+[Back to Main Page](READING-NOTES.MD)
