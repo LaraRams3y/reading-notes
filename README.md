@@ -11,8 +11,8 @@ This website is all about the new cool stuff I'm learning through Code Fellows. 
 - [Read02-The Coder's Computer](code102/read02-coderscomputer.md)
 - [Read03-RevisionsAndTheCloud](code102/read03-revisionsandthecloud.md)
 - [Read04-StructureWebPagesWithHTML](code102/read04-structurewebpageswithhtml.md)
+- [Read05-DesignWebPagesWithCSS](code102/read05-designwithcss.md)
 
-[Read05](code102/read05.md)
 [Read06](code102/read06.md)
 [Read07](code102/read07.md)
 [Read08](code102/read08.md)
