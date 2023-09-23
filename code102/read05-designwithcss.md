@@ -7,15 +7,16 @@ Cascading Style Sheets.
 To add style and presentation to a website.
 
 ### Three Ways to Insert CSS Into Your Project?
-> 1. Inline = Apply unique style to a single element
+  1. Inline = Apply unique style to a single element
   2. Internal = Apply w/in head as style attribute when one page has unique style  
   3. External = Create a .css file and link all pages to the file for consistent style across an entire website. Link in HTML page should be placed inside the head.
 
 ### Following Is a Sample of CSS Rule:
 To give all < p > elements red text...
 > < p > {
->         color:red;
-> }
+>         
+>         color: red;
+>    }
 
 ### Three Ways to Set Color In CSS:
 > 1. Use words: red, blue, green

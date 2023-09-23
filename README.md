@@ -12,8 +12,8 @@ This website is all about the new cool stuff I'm learning through Code Fellows. 
 - [Read03-RevisionsAndTheCloud](code102/read03-revisionsandthecloud.md)
 - [Read04-StructureWebPagesWithHTML](code102/read04-structurewebpageswithhtml.md)
 - [Read05-DesignWebPagesWithCSS](code102/read05-designwithcss.md)
+- [Read06-DynamicWebPagesWithJavaScript](code102/read06-dynamicjavascript.md)
 
-[Read06](code102/read06.md)
 [Read07](code102/read07.md)
 [Read08](code102/read08.md)
 ## Code 201 Notes
