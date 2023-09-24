@@ -12,9 +12,9 @@ Variables in JavaScript are considered as containers for storing data.
 
 To decalre a variable is to assign it a value or meaning.
 
-### There Are Four Ways to Declare Variables:
+### There Are Four Ways to Declare Variables
 
- 1. Automatically - 
+ 1. Automatically
  2. Usine "let" - used of you can't use "const"
  3. Using "var" - used with old browsers
  4. Using "const" - used if type & value shouldn't change.
