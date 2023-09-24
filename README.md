@@ -13,9 +13,10 @@ This website is all about the new cool stuff I'm learning through Code Fellows. 
 - [Read04-StructureWebPagesWithHTML](code102/read04-structurewebpageswithhtml.md)
 - [Read05-DesignWebPagesWithCSS](code102/read05-designwithcss.md)
 - [Read06-DynamicWebPagesWithJavaScript](code102/read06-dynamicjavascript.md)
+- [Read07-ProgrammingWithJavaScript](code102/read07-programmingwithjavascript.md)
 
-[Read07](code102/read07.md)
 [Read08](code102/read08.md)
+
 ## Code 201 Notes
 [Read01](code201/read01.md)
 [Read02](code201/read02.md)
