@@ -17,4 +17,4 @@ A For loop repeats until a specified condition evaluates to false.
 
 ### How Many Times Will a While Loop Execute?
 
-A while loop executes until a specified condition evaluates to true.
+A while loop executes as long as a specified condition evaluates to true.
