@@ -1,5 +1,5 @@
 
-# **Lara Ramsey Reading-Notes**
+# Lara Ramsey Reading-Notes
 
 Welcome to my reading journal for Code Fellows. I am a new coding student, currently enrolled in Code-102 with Code Fellows. I am  looking forward to discovering more about the tech industry. Although on track to study software development, I am looking forward to discovering more about the various roles in the industry. I am curious to discover which roles suit skills interests and where I can contribute those the most.
 
