@@ -21,7 +21,7 @@ This website is all about the new cool stuff I'm learning through Code Fellows. 
 
 ## Code 201 Notes
 
-[Read01](code201/read01.md)
+[Class01-Getting Started](code201/class01.md)  
 [Read02](code201/read02.md)
 [Read03](code201/read03.md)
 [Read04](code201/read04.md)
