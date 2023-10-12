@@ -80,7 +80,8 @@ The `<meta>` HTML tag is used with attributes when specifying metadata.The meta 
 
 **Describe 2 things that require JavaScript in the Browser?**  
 Browser APIs can be built into your browser or grabbed from another source. Two of these APIs that are available on your browser and accessed with the use of JavaScript are:
-- DOM (DOcument Object Model) 
+
+- DOM (Document Object Model)  
 - Canvas and WebGL
 
 **How can you add JavaScript to an HTML document?**
