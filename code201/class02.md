@@ -24,7 +24,7 @@ It is important to use semantic elements in our HTML because these elements tell
 **When using the `<abbr>` element, what attribute must be added to provide the full expansion of the term?**  
 To provide the full expansion of an acronym, use the title attribute as follows:
 >`<p>`  
->  I work at `<abbr title="South Puget Sound Community College">`SPSCC.`</abbr>`  
+> I work at `<abbr title="South Puget Sound Community College">`SPSCC.`</abbr>`  
 >`</p>`
 
 ### CSS Structure
@@ -39,13 +39,14 @@ To provide the full expansion of an acronym, use the title attribute as follows:
 
 **The following image reviews these CSS terms: "selector", "properties", "declaration":**
 
-![CodeReview](reading-notes/graphics/codereview.png)
+![Image of sample code for a level-two header with declarations for black text and 5px padding. The following terms have been written in in pink: "selector", "properties", and "declaration". Arrows draw the terms to their corresponding code.](/graphics/codereview.png)
 
 ### JavaScript Review
 
 **A sequence of text enclosed in single quote marks is a:** string
 
-**Four types of JavaScript operators are:** 
+**Four types of JavaScript operators are:**
+
 - "Assignment" is represented with an equal sign (=); it is best not to think "equal" but rather "assigned"
 - "Strict Equality" is represented by a line of three consecutive equal symbols (===)
 - "Not" is represented by an exclamation mark (!)
@@ -67,15 +68,15 @@ An else if gives the possibility of additional options of  the condition evaluat
 - `<=` This operator describes less than or equal to
 - `>` This operator describes greater than
 
-**What is the difference between the logical operator && and ||?**
+**What is the difference between the logical operator && and `||`?**
 
-- The logical operator && equates to AND. It initiates a check to see if BOTH operands are true. It asks "Are both operand 1 AND operand 2 true? They must both be true for this logical operator to evaluate to true.
-- The logical operator || equates to OR. It initiates a check to see if one or the other operand is true. It asks "Is operand 1 OR operand 2 true? If at least one of the operands evaluates to true, then the logical operator evaluates to true.
+- ||The logical operator && equates to AND. It initiates a check to see if BOTH operands are true. It asks "Are both operand 1 AND operand 2 true? They must both be true for this logical operator to evaluate to true.
+- |The logical operator `||` equates to OR. It initiates a check to see if one or the other operand is true. It asks "Is operand 1 OR operand 2 true? If at least one of the operands evaluates to true, then the logical operator evaluates to true.
 
 ### Things I Want to Know More About
-The text got pretty intense there with the JavaScript operands, logical operators and functions. I am looking forward to moving from complete mystery to clarity on it all :grinning:
+
+The text got pretty intense there with the JavaScript operands, logical operators and functions. I am looking forward to moving from complete mystery to clarity on it all.
 
 ### Additional Sources Consulted
-I have been enjoying chatting with ChatGPT. It helped me come up with my second point for real world problems JavaScript can solve. It also helped me recall markdown syntax for inserting an image and for inserting an emoji. It has not been able to tell me why my spouse was upset after having to stop at three different grocery stores to get the best prices on paneer cheese. It also failed to tell me why my kiddo thinks he's the boss and can tell my partner and I how to manage the household :shrug:
 
-![codereview.png]: graphics/codereview.png
+I have been enjoying chatting with ChatGPT. It helped me come up with my second point for real world problems JavaScript can solve. It also helped me recall markdown syntax for inserting an image and for inserting an emoji. It has not been able to tell me why my spouse was upset after having to stop at three different grocery stores to get the best prices on paneer cheese. It also failed to tell me why my kiddo thinks he's the boss and can tell my partner and I how to manage the household.
