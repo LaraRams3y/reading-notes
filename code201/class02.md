@@ -70,7 +70,7 @@ An else if gives the possibility of additional options of  the condition evaluat
 
 **What is the difference between the logical operator && and `||`?**
 
-- ||The logical operator && equates to AND. It initiates a check to see if BOTH operands are true. It asks "Are both operand 1 AND operand 2 true? They must both be true for this logical operator to evaluate to true.
+- |The logical operator && equates to AND. It initiates a check to see if BOTH operands are true. It asks "Are both operand 1 AND operand 2 true? They must both be true for this logical operator to evaluate to true.
 - |The logical operator `||` equates to OR. It initiates a check to see if one or the other operand is true. It asks "Is operand 1 OR operand 2 true? If at least one of the operands evaluates to true, then the logical operator evaluates to true.
 
 ### Things I Want to Know More About
