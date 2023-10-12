@@ -39,7 +39,7 @@ To provide the full expansion of an acronym, use the title attribute as follows:
 
 **The following image reviews these CSS terms: "selector", "properties", "declaration":**
 
-![](/graphics/codereview.png)
+![Image of sample code for a level-two header with declarations for black text and 5px padding. The following terms have been written in in pink: "selector", "properties", and "declaration". Arrows draw the terms to their corresponding code.](/graphics/codereview.png)
 
 ### JavaScript Review
 
