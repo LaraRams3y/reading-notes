@@ -1,6 +1,6 @@
 # Class 03 Reading Notes
 
-Reading for class three has been a little bit of recap of HTML, CSS, and JavaScript, and a lot of introduction to additional more complex content. I suspect that we will be applying theses concepts to our About Me pages.
+Reading for class three has been a little bit of recap of HTML, CSS, and JavaScript, and a lot of introduction to more complex content. I suspect that we will be applying theses concepts to our About Me pages.
 
 ### Learn HTML
 
@@ -64,8 +64,8 @@ This translates to mean the operand x should be assigned the value of operand x 
 3) This is a division assignment: x /= f()
 This translates to mean the operand x should be assigned the value of operand x divided by operand f(). In long form it looks like this: x = x / f()
 
-4) This is a logical OR assignment: x ||= f().
-It evaluates the operand to the right and assigns to the left if the left operand is falsy. I look forward to seeing and trying this in action to get a better grasp of it. The long form expression looks like this: x || (x = f())
+4) This is a logical OR assignment: x `||`= f().
+It evaluates the operand to the right and assigns to the left if the left operand is falsy. I look forward to seeing and trying this in action to get a better grasp of it. The long form expression looks like this: x `||` (x = f())
 
 5) This is a left shift assignment: x <<= f(). I don't quite understand it yet. According to MDN Web Docs: "The left shift assignment (<<=) operator performs left shift on the two operands and assigns the result to the left operand." I tried to clarify my understanding of this by following links provided by MDN Web Docs. BigInt values were discussed. I look forward to understanding this content more clearly. The long form expression looks like this: x = x << f()
 
