@@ -83,3 +83,7 @@ I originally thought that this expression would evaluate to false. I came to thi
 
 **Give an example of when a Loop is useful in JavaScript.**
 A loop is helpful for making repeat tasks automatic. I suspect that a loop could be useful in a program where a business needed to send out multiple automated monthly reminders to clientele. Or where the business needed to automate a monthly charge to a list of hundreds or thousands of subscribers.
+
+### Things I Want To Know More About
+Honestly, I'm feeling overwhelmed and super intimidated. There are so many possibilities presented in these pages. I need to know more about all of this, but I don't know how I'll be able to remember all of these variations, let alone figure out how the logic of them in combination works. Time to take a deep breath and trust in the process.
+
