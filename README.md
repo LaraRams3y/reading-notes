@@ -23,7 +23,7 @@ This website is all about the new cool stuff I'm learning through Code Fellows. 
 
 [Class01-Getting Started](code201/class01.md)  
 [Class02-Basics of HTML, CSS & JS](code201/class02.md)  
-[Read03](code201/read03.md)  
+[Read03-HTML Lists, Control Flow with JS, and the CSS Box Model](code201/class03.md)  
 [Read04](code201/read04.md)  
 [Read05](code201/read05.md)  
 [Read06](code201/read06.md)  
