@@ -54,3 +54,8 @@ The parameter is the parenthesis when a function is called; the argument are the
 1. Greater Efficiency - I'm going to focus in on the last points mentioned in this section: "Researches also identified pairing enhances technical skills, team communication, and even enjoyability of coding in the workplace." I like that this section mentions team building items. I am intimidated by the thought of team coding as it can be perceived as a vulnerable space where someone will see my lack of skill and knowledge. If I approach this with ideas of team building and enjoyability, I think that will get me past the initial hesitation. I deeply value team building, community, joy in connecting with others. How great to be able to achieve greater efficiency at the same time we're achieving community.
 
 2. Learning From Fellow Students - My current work is very individualistic. The instances where I learned from fellow students or colleagues have been accidental and far and few between. This sounds like a welcome change, to be in it with others rather than carrying it all on my own. Although, I think this is also just a hallmark of this industry.
+
+### Things I Want to Know More About
+
+I'm excited to learn more about CSS.
+I'm excited to have a clearer understanding of loops and functions.
