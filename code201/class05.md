@@ -2,17 +2,17 @@
 
 ### HTML
 
-**What is a real world use case for the alt attribute being used in a website?**
+**What is a real world use case for the `alt` attribute being used in a website?**
 
-I've known for a while that the use of alt attributes can help with creating a more efficient SEO. If a person wants their site to get picked up by search engines, they can provide alt attributes with clear descriptions and key words that search engines will pick up and use to direct audiences toward the desired content. As well, alt text provides a description of images for folks who are using screen readers and can not see the images. This is yet another reason for providing clear and concise alt text.
+I've known for a while that the use of `alt` attributes/text can help with creating a more efficient SEO. If a person wants their site to get picked up by search engines, they can provide alt attributes with clear descriptions and key words that search engines will pick up and use to direct audiences toward the desired content. As well, alt text provides a description of images for folks who are using screen readers and can not see the images. This is yet another reason for providing clear and concise alt text.
 
 **How can you improve accessibility of images in an HTML document?**
 
 Provide an alt text description so that users can refer to it if they need to use the reader scanner or if the pathway to the image is broken. Also, specify width and heighth. Avoid title text as it is not reliable in conjunction with screen readers.
 
-**Provide an example of when the figure element would be useful in an HTML document.**
+**Provide an example of when the `figure` element would be useful in an HTML document.**
 
-When you would like to provide a container for your image, a figure element would be useful. In particular, it would be useful for the inclusion of the figure caption element which provides you with the ability to include text beneath your image, like a title, but a better approach than a title.
+When you would like to provide a container for your image, a `figure` element would be useful. In particular, it would be useful for the inclusion of the `figure caption` element which provides you with the ability to include text beneath your image, like a `title`, but a better approach than a title.
 
 **Describe the difference between a `GIF` image and an `SVG` image.**
 
@@ -26,7 +26,7 @@ When you would like to provide a container for your image, a figure element woul
 
 ### CSS
 
-**Describe the difference between `foreground` and `background` colors of an HTML element**
+**Describe the difference between `foreground` and `background` colors of an HTML element.**
 
 For web design, "background color" fills in the color behind the content within the particular box that you are working. A box could be a portion of the web page or the entire web page, as web pages are constructed of various "boxes" of content. The foreground color colors everything that is not the background. Typically this is text, though it is not always restricted to text.
 
