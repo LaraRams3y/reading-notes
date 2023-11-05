@@ -26,7 +26,7 @@ This website is all about the new cool stuff I'm learning through Code Fellows. 
 [Class03 - HTML Lists, Control Flow with JS, and the CSS Box Model](code201/class03.md)  
 [Class04 - Links,Layouts & Functions](code201/class04.md)  
 [Class05 - Images, Color, Text](code201/class05.md)  
-[Read06](code201/class06.md)  
+[Class06 - JavaScript Object Basics and The DOM](code201/class06.md)  
 [Read07](code201/class07.md)
 [Read08](code201/class08.md)
 [Read09](code201/class09.md)
