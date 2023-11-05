@@ -29,3 +29,7 @@ According to MDN Web Docs, "The Document Object Model (DOM) is a programming int
 **Briefly describe the relationship between the DOM and JavaScript**
 
 According to MDN Web Docs, "The DOM is not a programming language, but without it, the JavaScript language wouldn't have any model or notion of web pages, HTML documents, SVG documents, and their component parts. The document as a whole, the head, tables within the document, table headers, text within the table cells, and all other elements in a document are parts of the document object model for that document. They can all be accessed and manipulated using the DOM and a scripting language like JavaScript."
+
+### Things I Want To Know More About ###
+
+> I'm looking forward to understanding the DOM with more clarity.
