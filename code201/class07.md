@@ -27,3 +27,10 @@ A constructor is a way to create and manage multiple objects. The advantage to t
 
 > When used in an object, the term "this" is used within the object to reference value defined within that object.
 > I am not yet clear on how the usage of "this" changes when employed with a constructor. Chat GPT describes it as "In the context of a constructor function, "this" refers to the instance of the object being created. Constructors are used to create and initialize objects." Our reading mentions that the new constructor binds "this" to the newly created object. I'm looking forward to gaining further clarity on this comparison.
+
+**Explain prototypes and inheritance via an analogy from your previous work experience.**
+Again, I would like further clarity on these concepts; however, here's my first attempt to explain these terms via analogy:
+
+1. A prototype appears to be a search through records for information that will help in the creation of a new object. In my previous career, I could liken this to the need to create a Works Cited entry at the end of an essay, or to the need to create a citation within an essay. To create a new citation, a student would need to scan through the MLA works cited guidebook and review a set of previously set out guidelines and choose the best one to guide them.
+
+2. An inheritance appears to be a collection of instructions that can be easily applied to multiple settings. In my previous career, this could be a citation generator. Within the library search engine, once a student finds an article they would like to use as part of their research, they can click the citation generator tab and it will automatically give them a rendering of the article's information in citation format. However, the student will still need to check the generated citation for correctness.
